@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/newtruckwel/static/css/main.8b076cef.chunk.css",
+    "main.js": "/newtruckwel/static/js/main.eab1e93a.chunk.js",
+    "main.js.map": "/newtruckwel/static/js/main.eab1e93a.chunk.js.map",
+    "runtime-main.js": "/newtruckwel/static/js/runtime-main.51d2075f.js",
+    "runtime-main.js.map": "/newtruckwel/static/js/runtime-main.51d2075f.js.map",
+    "static/css/2.11829350.chunk.css": "/newtruckwel/static/css/2.11829350.chunk.css",
+    "static/js/2.3e73ea02.chunk.js": "/newtruckwel/static/js/2.3e73ea02.chunk.js",
+    "static/js/2.3e73ea02.chunk.js.map": "/newtruckwel/static/js/2.3e73ea02.chunk.js.map",
+    "index.html": "/newtruckwel/index.html",
+    "precache-manifest.ce3f940b6728bd079878bca8209d3091.js": "/newtruckwel/precache-manifest.ce3f940b6728bd079878bca8209d3091.js",
+    "service-worker.js": "/newtruckwel/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/newtruckwel/static/css/2.11829350.chunk.css.map",
+    "static/css/main.8b076cef.chunk.css.map": "/newtruckwel/static/css/main.8b076cef.chunk.css.map",
+    "static/js/2.3e73ea02.chunk.js.LICENSE.txt": "/newtruckwel/static/js/2.3e73ea02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51d2075f.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.3e73ea02.chunk.js",
+    "static/css/main.8b076cef.chunk.css",
+    "static/js/main.eab1e93a.chunk.js"
+  ]
+}
